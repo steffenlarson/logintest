@@ -1,0 +1,16 @@
+C:\Users\steff\source\codeworks\morningchallenge\logintest\bin\Debug\net5.0\logintest.exe
+C:\Users\steff\source\codeworks\morningchallenge\logintest\bin\Debug\net5.0\logintest.deps.json
+C:\Users\steff\source\codeworks\morningchallenge\logintest\bin\Debug\net5.0\logintest.runtimeconfig.json
+C:\Users\steff\source\codeworks\morningchallenge\logintest\bin\Debug\net5.0\logintest.runtimeconfig.dev.json
+C:\Users\steff\source\codeworks\morningchallenge\logintest\bin\Debug\net5.0\logintest.dll
+C:\Users\steff\source\codeworks\morningchallenge\logintest\bin\Debug\net5.0\ref\logintest.dll
+C:\Users\steff\source\codeworks\morningchallenge\logintest\bin\Debug\net5.0\logintest.pdb
+C:\Users\steff\source\codeworks\morningchallenge\logintest\obj\Debug\net5.0\logintest.csprojAssemblyReference.cache
+C:\Users\steff\source\codeworks\morningchallenge\logintest\obj\Debug\net5.0\logintest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steff\source\codeworks\morningchallenge\logintest\obj\Debug\net5.0\logintest.AssemblyInfoInputs.cache
+C:\Users\steff\source\codeworks\morningchallenge\logintest\obj\Debug\net5.0\logintest.AssemblyInfo.cs
+C:\Users\steff\source\codeworks\morningchallenge\logintest\obj\Debug\net5.0\logintest.csproj.CoreCompileInputs.cache
+C:\Users\steff\source\codeworks\morningchallenge\logintest\obj\Debug\net5.0\logintest.dll
+C:\Users\steff\source\codeworks\morningchallenge\logintest\obj\Debug\net5.0\ref\logintest.dll
+C:\Users\steff\source\codeworks\morningchallenge\logintest\obj\Debug\net5.0\logintest.pdb
+C:\Users\steff\source\codeworks\morningchallenge\logintest\obj\Debug\net5.0\logintest.genruntimeconfig.cache
